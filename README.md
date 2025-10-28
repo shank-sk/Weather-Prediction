@@ -69,7 +69,7 @@ streamlit run app.py
 - Visualization and performance metrics confirm consistent results and reliable predictions.
 - Demonstrates that even a simple probabilistic model can yield meaningful environmental insights.
 
-#🚀 Future Enhancements
+## 🚀 Future Enhancements
 - Add additional features (humidity, air pressure, visibility).
 - Implement advanced ML models like Random Forest, SVM, or LSTM for time-series forecasting.
 - Integrate real-time weather data APIs (e.g., OpenWeatherMap).
